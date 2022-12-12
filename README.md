@@ -36,7 +36,8 @@ API;
 ![Tela de detalhes do produto](https://i.ibb.co/VQBSRHf/detalhes-produto.png)
 <br>
 
-### Tela de cadastro de produtos. Aqui o usuário consegue adicionar um novo produto preenchendo todos os campos do formulário. Caso o post seja realizado com sucesso, um alerta de sucesso é exibido. Caso algum campo não seja preenchido, um outro alerta é exibido solicitando o preenchimento dos campos. 
+### Tela de cadastro de produtos. 
+- Aqui o usuário consegue adicionar um novo produto preenchendo todos os campos do formulário. Caso o post seja realizado com sucesso, um alerta de sucesso é exibido. Caso algum campo não seja preenchido, um outro alerta é exibido solicitando o preenchimento dos campos. 
 ![Tela de cadastro de produto](https://i.ibb.co/vHmGk6S/cadastro.png)
 <br>
 
